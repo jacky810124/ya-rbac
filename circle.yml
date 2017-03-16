@@ -1,6 +1,6 @@
 test:
   override:
-    - npm run __tests__
+    - npm run test
 machine:
   node:
     version: 6.9.2
